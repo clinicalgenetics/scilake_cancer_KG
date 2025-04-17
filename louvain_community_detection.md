@@ -1,8 +1,3 @@
----
-title: "louvain_community_detection"
-output: html_document
----
-
 # Louvain Community Detection [neo4j/ckg]
 
 ## Neo4j characteristics
